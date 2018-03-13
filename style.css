@@ -1,1 +1,24 @@
-body { background-color: #ddd; }
+h1 {
+	color: #152833;
+	font-family: verdana, arial;
+	font-size: 200%;
+}
+
+body { 	background-color: #FFFFFF;
+}
+
+#wrapper { background-color: #D2DDE3;
+	width: 80%;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 20px;
+	border: 3px solid #054269;
+}
+
+nav {
+	font-family: verdana;
+	font-color: #FFFFFF;
+	background-color: #152833;
+	border: 5px solid gray;
+	padding: 5px;
+}
