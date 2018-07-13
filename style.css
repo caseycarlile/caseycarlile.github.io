@@ -1,24 +1,52 @@
 h1 {
 	color: #152833;
-	font-family: verdana, arial;
 	font-size: 200%;
 }
 
-body { 	background-color: #FFFFFF;
+body { 	
+	background-color: #FFFFFF;
+	font-family: verdana, arial;
 }
 
-#wrapper { background-color: #D2DDE3;
-	width: 80%;
-	margin-left: auto;
-	margin-right: auto;
-	padding: 20px;
-	border: 3px solid #054269;
+a {
+	text-decoration: none;
 }
 
-nav {
-	font-family: verdana;
-	font-color: #FFFFFF;
-	background-color: #152833;
-	border: 5px solid gray;
-	padding: 5px;
+.page-top {
+	background-color: #594F4F;
+	overflow: hidden;
+}
+
+.page-top a {
+	text-align: center;
+	padding: 14px 16px;
+	float: left;
+	font-size: 1.2em;
+	color: #F2F2F2;
+}
+
+.page-top a:hover {
+	background-color: #DDDDDD;
+	color: #000000;
+}
+
+.page-top a:active {
+	background-color: #45ADA8;
+	color: #FFFFFF;
+}
+
+.top-right {
+	float: right;
+}
+
+.wrapper { 
+	
+}
+
+#aboutMe{
+
+}
+
+#aboutMeImg {
+
 }
