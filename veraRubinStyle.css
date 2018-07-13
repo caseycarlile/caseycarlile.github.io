@@ -1,0 +1,70 @@
+body {
+	width: 80%;
+	margin: auto;
+	background-color: #FFFFFF;
+	font-family: 'Lato', sans-serif;
+}
+
+#wrapper {
+	margin-top: 5%;
+	margin-bottom: 5%;
+	background-color: #F2F2F2;
+	padding: 3%;
+}
+
+h1 {
+	text-align: center;
+	font-weight: normal;
+	font-size: 3.5em;
+	margin-bottom: 1%;
+	font-family: 'Raleway', sans-serif;
+}
+
+h2 {
+	margin-top: 1%;
+	text-align: center;
+	font-style: italic;
+	font-weight: normal;
+	font-family: 'Raleway', sans-serif;
+}
+
+h3 {
+	font-weight: normal;
+	font-family: 'Raleway', sans-serif;
+}
+
+img {
+	display: block;
+	margin: auto;
+	width: 60%;
+}
+
+#timeline {
+	width: 60%;
+	margin: auto;
+}
+
+li {
+	font-size: 1em;
+}
+
+#year {
+	font-weight: bold;
+}
+
+#quote {
+	font-size: 1.2em;
+	text-align: center;
+	font-style: normal;
+	width: 80%;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 1%;
+}
+
+#source {
+	text-align: left;
+	margin-left: 10%;
+	margin-top: 1%;
+	font-style: italic;
+}

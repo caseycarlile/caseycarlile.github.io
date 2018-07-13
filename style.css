@@ -1,1 +1,52 @@
-body { background-color: #ddd; }
+h1 {
+	color: #152833;
+	font-size: 200%;
+}
+
+body { 	
+	background-color: #FFFFFF;
+	font-family: verdana, arial;
+}
+
+a {
+	text-decoration: none;
+}
+
+.page-top {
+	background-color: #594F4F;
+	overflow: hidden;
+}
+
+.page-top a {
+	text-align: center;
+	padding: 14px 16px;
+	float: left;
+	font-size: 1.2em;
+	color: #F2F2F2;
+}
+
+.page-top a:hover {
+	background-color: #DDDDDD;
+	color: #000000;
+}
+
+.page-top a:active {
+	background-color: #45ADA8;
+	color: #FFFFFF;
+}
+
+.top-right {
+	float: right;
+}
+
+.wrapper { 
+	
+}
+
+#aboutMe{
+
+}
+
+#aboutMeImg {
+
+}
