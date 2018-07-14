@@ -9,6 +9,11 @@ a {
 	text-decoration: none;
 }
 
+.name {
+	color: #9DE0AD;
+	font-weight: bold;
+}
+
 .page-top {
 	background-color: #594F4F;
 	overflow: hidden;
@@ -19,7 +24,7 @@ a {
 	padding: 14px 16px;
 	float: left;
 	font-size: 1.2em;
-	color: #F2F2F2;
+	color: #F2F2F1;
 }
 
 .page-top a:hover {
