@@ -2,10 +2,17 @@
 body { 	
 	background-color: #FFFFFF;
 	font-family: verdana, arial;
+	font-size: 1em;
 }
 
 a {
 	text-decoration: none;
+}
+
+.name {
+	color: #9DE0AD;
+	font-size: 1.3em;
+	font-weight: bold;
 }
 
 .page-top {
